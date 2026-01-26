@@ -1,3 +1,6 @@
+GIT COMMANDS:
+============
+
 git init
 
 git config --global user.name "Ajay"
