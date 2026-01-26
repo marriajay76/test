@@ -9,7 +9,7 @@ git config --global --unset user.name
 git config --global --unset user.email
 
 git config --global user.name "Ajay"
-git config --global user.email "marriaay76@gmail.com"
+git config --global user.email "marriajay76@gmail.com"
 
 ===========
 touch file1
