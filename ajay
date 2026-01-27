@@ -82,3 +82,18 @@ git add .
 git commit -m "sample file deleted"
 git push
 
+Branch:
+-------
+
+ git branch
+ git checkou test1
+ git checkout test1
+ git branch
+ git checkout main
+ git branch
+ git checkout main
+ touch file1
+ git add file1
+ git commit -m "merge main to release"
+ git checkout test1
+ git merge main
